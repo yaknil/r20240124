@@ -1,1 +1,3 @@
-# r20240124
+# 24.-ei óránk munkája, fájlai.
+## A prezentáció.
+## A github parancsok, táblázatba foglalva.
